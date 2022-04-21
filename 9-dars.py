@@ -3,7 +3,7 @@
 #-- Mentor: Samandar Bozorboyev ---
 
 
-# list - bu o'zgarishi mumkin bo'lgan to'plam, Pythonda ro'yxatlar kvadrat qavslar ichida yoziladi
+# list - bu o'zgarishi  mumkin bo'lgan to'plam, Pythonda ro'yxatlar kvadrat qavslar ichida yoziladi
 # tuple
 # set
 # Dictionary
