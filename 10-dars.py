@@ -1,41 +1,24 @@
 #-- Python darsi N: 9 ------
-#-- Ro’yxatlar bilan ishlash. Ro’yxatlarga o’zgartirish kiritish  -----
+#-- Ro’yxatlar(Lists)  -----
 #-- Mentor: Samandar Bozorboyev ---
 
-# colors = ['black', 'blue', 'red']
-# colors[0] = 'yellow'
-# colors[2] = 'pink'
-# print(colors)
 
-# raqamlar = [20, 65, 21, 50, 100, 30]
-# raqamlar[0] = 130
-# raqamlar[2] = raqamlar[2] + 9
-# print(raqamlar)
+# list - bu o'zgarishi  mumkin bo'lgan to'plam, Pythonda ro'yxatlar kvadrat qavslar ichida yoziladi
+# tuple
+# set
+# Dictionary
 
-# append() - yangi element qo'shish
-# cars = []
-# print(cars)
-# cars.append('Spark')
-# cars.append('Matiz')
-# cars.append('Cobalt')
-# cars.append('Nissan')
-# print(cars)
+# ranglar = ['oq', 'qizil', 'yashil', 'qora']
+# narxlar = [12.3, 10000, 2000, 12, 67]
+# sonlar = ['bir', 34, False, 23.4]
+# toplam = ranglar+narxlar
+# print(toplam)
 
+# print(len(ranglar))
+# print("Brinchi qiymat: ", ranglar[0])
+# print("Oxirgi qiymat: ", ranglar[-2])
 
-# insert() metodi - ro'yxatning istalgan joyiga element qo'shadi
-# cars = ['Laccetti', 'Nexia 3', "Damas"]
-# cars.insert(0, "Mers")
-# cars.insert(2, "Cobalt")
-# print(cars)
+# sonlar = [12, 20, 50, 34, 45]
+# print(sonlar[-1]+sonlar[0])
 
 
-# del va remove() - Elementlarni o'chirish
-# cars = ['Laccetti', 'Damas', 'Nexia 3', "Damas"]
-# del cars[1]
-# print(cars)
-# cars.remove('Damas')
-# print(cars)
-
-cars = ['Laccetti', 'Damas', 'Nexia 3', "Damas"]
-buy = cars.pop(0)
-print('Men', buy , 'sotib oldim')
