@@ -74,30 +74,47 @@
 # TUPLES - QATORLAR - o'zgarmas ro'yxarlar
 
 
-cars = ('bmw', 'nissan', 'damas', 'lacette', 'Cobalt', 'Nexia')
-# print(cars[-1])
-# print(cars[2:5])
-cars = list(cars)
-cars[2] = 'Malibu'
-cars = tuple(cars)
-print(cars)
+
+
+# cars = ('bmw', 'nissan', 'damas', 'lacette', 'Cobalt', 'Nexia')
+# # print(cars[-1])
+# # print(cars[2:5])
+# cars = list(cars)
+# cars[2] = 'Malibu'
+# cars = tuple(cars)
+# print(cars)
+
+
 
 # my_tuple = (23, 43, 66, 12)
 # my_tuple2 = ('desktop', 'pen', 'coffee')
 # qoshilma = my_tuple + my_tuple2
 # print(qoshilma)
 
+
+
+
+
 # my_tuple2 = ('desktop', 'pen', 'coffee')
 # print(my_tuple2*3)
 
-# Tuples - Qatorlarni o'chirib bo'lmaydi 
+
+
+
+
+
+# Tuples - Qatorlarni o'chirib bo'lmaydi
+# my_tuple2 = ('desktop', 'pen', 'coffee') 
 # del my_tuple2
 # print(my_tuple2)
 
+
+
+
 #count - elementlani sanashda ishlatiladi
-#index
 
-
+# my_tuple2 = ('desktop', 'pen', 'coffee', 'desktop', 'desktop')
+# print(my_tuple2.count('desktop'))
 
 
 
