@@ -1,4 +1,6 @@
-# if elif else
+#-- Python darsi N: 15 ------
+#-- Ma’lumotlar oqimini boshqarish (IF … ELSE) -----
+#-- Mentor: Samandar Bozorboyev ---
 
 
 # if operatorining sintaksisi

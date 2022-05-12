@@ -1,4 +1,4 @@
-#-- Python darsi N: 12 ------
+#-- Python darsi N: 13 ------
 #-- 13. Ro’yxat bilan ishlash (Sets) -----
 #-- Mentor: Samandar Bozorboyev ---
 

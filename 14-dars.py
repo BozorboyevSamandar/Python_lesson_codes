@@ -1,4 +1,4 @@
-#-- Python darsi N: 12 ------
+#-- Python darsi N: 14 ------
 #-- Ro’yxatlar bilan ishlash. Lug’atlar (Dictionaries) -----
 #-- Mentor: Samandar Bozorboyev ---
 
