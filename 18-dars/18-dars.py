@@ -1,4 +1,4 @@
-#-- Python darsi N: 17 ------
+#-- Python darsi N: 20 ------
 #-- 18. Ma’lumotlar oqimini boshqarish (While lopps)   -----
 #-- Mentor: Samandar Bozorboyev ---
 
