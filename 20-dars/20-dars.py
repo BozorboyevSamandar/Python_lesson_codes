@@ -23,7 +23,6 @@
 
 
 
-
 # def my_func(car1, car2, car3):
 
 #     print("Men " + car3 + " sotib oldim.")
@@ -51,9 +50,6 @@
 #     print(f"Men {noutbuk[1]} markali noutbuk ishlataman")
 
 # my_function("Acer", "Lenovo", "Mac", "HP")
-
-
-
 
 
 
